@@ -1,0 +1,14 @@
+.h1-fondo{
+    background-color: tomato;
+    text-transform: capitalize;
+}
+
+
+.nav-mio ul{
+display: flex;
+justify-content: center;
+list-style: none;
+gap: 1rem;
+align-items: center;
+
+}
